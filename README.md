@@ -27,5 +27,5 @@ Quando finalizar a criação, acesse na máquina real ou outra máquina conectad
 
 ## Resultado
 
-![Alt text](./result.png "Optional title")
+![Alt text](./resultCredentials.png "Optional title")
 
