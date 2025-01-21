@@ -6,12 +6,7 @@ O projeto teve por objetivo criar uma página falsa para coleta de usuário e se
 
 Para este caso foi utilizado o Instagram como alvo.
 
-## Tópicos
-
-- [Passo a Passo](#passo)
-- [Resultado](#resultado)
-
-## Passo
+## Passo a Passo
 
 Acessando a máquina Kali Linux, é necessário logar como root através do comando: sudo su
 
